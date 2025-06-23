@@ -20,7 +20,7 @@ Desde Argentina haciendo QA Manual y Automation con mate en mano 🧉
 
 - :telescope: Me enfoco en la calidad de aplicaciones web, aplicando metodologías ágiles como Scrum y Kanban. Tengo experiencia diseñando y ejecutando casos de prueba, automatizando con Cypress, Playwright y Selenium, y realizando pruebas de APIs con Postman.
 
-- :zap: Padre de 11 michis y fanático de Huracan :balloon:
+- :zap: Padre de 11 michis y fanático de Huracán :balloon:
 
 - :mailbox:Contactame: [![Linkedin Badge](https://img.shields.io/badge/-Ale-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/alejandro-amoza)
 
@@ -52,13 +52,14 @@ Desde Argentina haciendo QA Manual y Automation con mate en mano 🧉
 
 ---
 
-### 📈 GitHub Stats
+## 📊 GitHub Stats
 
 <p align="center">
-  <img src="http://github-readme-streak-stats.herokuapp.com?user=alejandro-amoza&theme=dark&background=000000" width="600"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=alejandro-amoza&show_icons=true&theme=tokyonight&hide=stars" width="500" />
 </p>
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alejandro-amoza&layout=compact&theme=vision-friendly-dark" width="600"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alejandro-amoza&layout=compact&theme=tokyonight&langs_count=6" width="500" />
 </p>
 
 ---
